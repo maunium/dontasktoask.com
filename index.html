@@ -6,6 +6,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://dontasktoask.com" />
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <style>
     html {
       height: 100%;
@@ -26,8 +27,10 @@
       font-family: "Open Sans";
     }
 
-    main {
-    	margin: 40px 0;
+	@media screen and (min-width: 680px) {
+      main {
+        margin: 40px 0;
+      }
     }
 
     h1, h2 {
@@ -44,13 +47,35 @@
     a {
       color: #07A;
     }
-
     a:visited {
       color: #941352;
     }
-
     footer > a {
-       color: #888 !important;
+      color: #888 !important;
+    }
+
+    blockquote {
+      background: #F9F9F9;
+      border-left: 10px solid #CCC;
+      margin: 1.5em 10px;
+      padding: 0.5em 10px;
+
+      font-family: monospace;
+    }
+    blockquote p {
+      display: inline;
+    }
+
+    @media screen and (min-width: 400px) {
+      blockquote {
+        display: table;
+      }
+      blockquote > * {
+        display: table-cell;
+      }
+      blockquote > .name {
+        padding-right: 8px;
+      }
     }
   </style>
 </head>
@@ -61,17 +86,25 @@
       Every now and then, on online chat rooms I hang around in, someone pops
       in and says something in the lines of,
     </p>
-    <pre>Foobar123: Any Java experts around?</pre>
+    <blockquote>
+      <span class="name">Foobar123:</span>
+      <p class="message">
+        Any Java experts around?
+      </p>
+    </blockquote>
     <p>
       This is bad form, for several reasons. What the person is
       <em>actually</em> asking here is,
     </p>
-    <pre>
-Foobar123: Any Java experts around who are willing to commit 
-           into looking into my problem, whatever that may
-           turn out to be, even if it's not actually related
-           to Java or if someone who doesn't know anything
-           about Java could actually answer my question?</pre>
+    <blockquote>
+      <span class="name">Foobar123:</span>
+      <p class="message">
+        Any Java experts around who are willing to commit into looking into my
+        problem, whatever that may turn out to be, even if it's not actually
+        related to Java or if someone who doesn't know anything about Java
+        could actually answer my question?
+      </p>
+    </blockquote>
     <p>
       There are plenty of reasons why people who DO have the knowledge would
       not admit to it. By asking, you're asking for more than what you think
@@ -87,11 +120,14 @@ Foobar123: Any Java experts around who are willing to commit
     <p>
       Alternatively, it can be seen as..
     </p>
-    <pre>
-Foobar123: I have a question about Java but I'm too lazy to
-           actually formalize it in words unless there's
-           someone on the channel who might be able to
-           answer it</pre>
+    <blockquote>
+      <span class="name">Foobar123:</span>
+      <p class="message">
+        I have a question about Java but I'm too lazy to actually formalize it
+        in words unless there's someone on the channel who might be able to
+        answer it
+      </p>
+    </blockquote>
     <p>
       ..which is just lazy. If you're not willing to do the work to solve your
       problem, why should we?
