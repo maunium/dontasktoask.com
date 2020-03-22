@@ -1,4 +1,4 @@
-# dontasktoask.com
+# [dontasktoask.com](https://dontasktoask.com)
 An informational website about why you should ask questions directly instead of
 asking to ask.
 
@@ -8,7 +8,7 @@ the footer of the translated page and in the list below.
 
 ## Credits
 * Based on [iki.fi/sol/dontask.html](http://www.iki.fi/sol/dontask.html) by [Jari Komppa](http://www.iki.fi/sol/)
-* Website by [@tulir](https://maunium.net)
+* Website by [@tulir](https://github.com/tulir)
 * Arabic translation by [@painor](https://github.com/painor)
 * French translation by [@MonsieurBibo](https://github.com/MonsieurBibo)
 * Korean translation by [홍 용민 (Yongmin Hong)](https://revi.omg.lol/)
