@@ -9,6 +9,24 @@
   <link rel="stylesheet" type="text/css" href="/style.css">
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
   <meta name="viewport" content="width=device-width، initial-scale=1، shrink-to-fit=no">
+  <style>
+    /* RTL overrides */
+    * {
+      text-align: right;
+    }
+    blockquote {
+      border-left: none;
+      border-right: 10px solid #CCC;
+    }
+    @media screen and (min-width: 400px) {
+      blockquote {
+        display: table;
+      }
+      blockquote > * {
+        display: table-cell;
+      }
+    }
+  </style>
 </head>
 <body>
   <main>
