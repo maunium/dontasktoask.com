@@ -13,3 +13,4 @@ the footer of the translated page and in the list below.
 * French translation by [@MonsieurBibo](https://github.com/MonsieurBibo)
 * Korean translation by [홍 용민 (Yongmin Hong)](https://revi.omg.lol/)
 * Turkish translation by [Mehmet Ali Peker](https://github.com/MrPeker/)
+* Spanish translation by [@danirod](https://github.com/danirod)
