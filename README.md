@@ -15,3 +15,4 @@ the footer of the translated page and in the list below.
 * Turkish translation by [Mehmet Ali Peker](https://github.com/MrPeker/)
 * Spanish translation by [@danirod](https://github.com/danirod)
 * persian translation by [Yosef Salmalian](https://github.com/usefss)
+* Simplified Chinese translation by [@Cyanoxygen](https://github.com/cyanoxygen)
