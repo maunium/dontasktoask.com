@@ -17,3 +17,4 @@ the footer of the translated page and in the list below.
 * persian translation by [Yosef Salmalian](https://github.com/usefss)
 * Simplified Chinese translation by [@Cyanoxygen](https://github.com/cyanoxygen)
 * German translation by [@LasseNiermann](https://github.com/LasseNiermann)
+* Russian translation by [@GameRaccoon](https://github.com/gameraccoon)
