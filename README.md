@@ -18,3 +18,4 @@ the footer of the translated page and in the list below.
 * Simplified Chinese translation by [@Cyanoxygen](https://github.com/cyanoxygen)
 * German translation by [@LasseNiermann](https://github.com/LasseNiermann)
 * Russian translation by [@GameRaccoon](https://github.com/gameraccoon)
+* Traditional Chinese translation by [@flarely](https://github.com/flarely), [@Cyanoxygen](https://github.com/cyanoxygen)
