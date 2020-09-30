@@ -12,7 +12,7 @@ body {
   line-height: 1.6;
   font-size: 18px;
   color: #222;
-  background-color: #FAFAFA;
+  background-color: #3090C7;
   padding: 0 10px;
   font-family: "Open Sans";
 }
@@ -50,7 +50,7 @@ blockquote {
   margin: 1.5em 10px;
   padding: 0.5em 10px;
 
-  font-family: monospace;
+  font-family: Sans-serif;
 }
 blockquote p {
   display: inline;
