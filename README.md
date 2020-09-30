@@ -1,6 +1,7 @@
 # [dontasktoask.com](https://dontasktoask.com)
 An informational website about why you should ask questions directly instead of
 asking to ask.
+The clearance of doubts by asking questions is the best way of interaction between the speaker and the listener so we should ask directly rather than asking for it.
 
 Feel free to make pull requests with new translations or fixes to the existing
 translations. When making new translations, you can add credit for yourself in
