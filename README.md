@@ -1,3 +1,4 @@
+## An Amazing Project-->
 # [dontasktoask.com](https://dontasktoask.com)
 An informational website about why you should ask questions directly instead of
 asking to ask.
@@ -6,7 +7,7 @@ Feel free to make pull requests with new translations or fixes to the existing
 translations. When making new translations, you can add credit for yourself in
 the footer of the translated page and in the list below.
 
-## Credits
+## Credits :
 * Based on [iki.fi/sol/dontask.html](http://www.iki.fi/sol/dontask.html) by [Jari Komppa](http://www.iki.fi/sol/)
 * Website by [@tulir](https://github.com/tulir)
 * Arabic translation by [@painor](https://github.com/painor)
