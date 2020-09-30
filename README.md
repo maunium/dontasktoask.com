@@ -1,6 +1,6 @@
-# [dontasktoask.com](https://dontasktoask.com)
+# [Dontasktoask.com](https://dontasktoask.com)
 An informational website about why you should ask questions directly instead of
-asking to ask.
+asking to ask someone else.
 
 Feel free to make pull requests with new translations or fixes to the existing
 translations. When making new translations, you can add credit for yourself in
