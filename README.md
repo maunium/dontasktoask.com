@@ -5,6 +5,7 @@
 नए अनुवादों या मौजूदा में किए गए सुधारों के साथ पुल अनुरोध करने के लिए स्वतंत्र महसूस करें
 अनुवाद। नए अनुवाद बनाते समय, आप अपने लिए क्रेडिट जोड़ सकते हैं
 अनुवादित पृष्ठ के पाद लेख और नीचे दी गई सूची में।
+धन्यवाद!
 ## क्रेडिट
 * Based on [iki.fi/sol/dontask.html](http://www.iki.fi/sol/dontask.html) by [Jari Komppa](http://www.iki.fi/sol/)
 * Website by [@tulir](https://github.com/tulir)
