@@ -1,4 +1,4 @@
-# [dontasktoask.com](https://dontasktoask.com)
+# [dontasktoask.com help him](https://dontasktoask.com)
 An informational website about why you should ask questions directly instead of
 asking to ask.
 
