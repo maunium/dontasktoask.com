@@ -3,7 +3,7 @@ An informational website about why you should ask questions directly instead of
 asking to ask.
 
 Feel free to make pull requests with new translations or fixes to the existing
-translations. When making new translations, you can add credit for yourself in
+translations. When creating new translations, you can add credit for yourself in
 the footer of the translated page and in the list below.
 
 ## Credits
