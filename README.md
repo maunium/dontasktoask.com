@@ -20,3 +20,4 @@ the footer of the translated page and in the list below.
 * Russian translation by [@GameRaccoon](https://github.com/gameraccoon)
 * Polish translation by [@mtatko](https://github.com/mtatko)
 * Traditional Chinese translation by [@flarely](https://github.com/flarely) (based on [@Cyanoxygen](https://github.com/cyanoxygen)'s Simplified Chinese translation)
+# thanks for visiting.....
