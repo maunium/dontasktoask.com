@@ -1,10 +1,12 @@
 # [dontasktoask.com](https://dontasktoask.com)
 An informational website about why you should ask questions directly instead of
-asking to ask.
+asking to ask.The more we question, the better answers we get.
 
 Feel free to make pull requests with new translations or fixes to the existing
 translations. When making new translations, you can add credit for yourself in
 the footer of the translated page and in the list below.
+
+
 
 ## Credits
 * Based on [iki.fi/sol/dontask.html](http://www.iki.fi/sol/dontask.html) by [Jari Komppa](http://www.iki.fi/sol/)
