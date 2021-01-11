@@ -14,7 +14,7 @@ the footer of the translated page and in the list below.
 * Korean translation by [홍 용민 (Yongmin Hong)](https://revi.omg.lol/)
 * Turkish translation by [Mehmet Ali Peker](https://github.com/MrPeker/)
 * Spanish translation by [@danirod](https://github.com/danirod)
-* persian translation by [Yosef Salmalian](https://github.com/usefss)
+* Persian translation by [Yosef Salmalian](https://github.com/usefss) & [@mohsenasm](https://github.com/mohsenasm)
 * Simplified Chinese translation by [@Cyanoxygen](https://github.com/cyanoxygen)
 * German translation by [@LasseNiermann](https://github.com/LasseNiermann)
 * Russian translation by [@GameRaccoon](https://github.com/gameraccoon)
