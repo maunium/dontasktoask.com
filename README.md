@@ -21,4 +21,4 @@ the footer of the translated page and in the list below.
 * Polish translation by [@mtatko](https://github.com/mtatko)
 * Traditional Chinese translation by [@flarely](https://github.com/flarely) (based on [@Cyanoxygen](https://github.com/cyanoxygen)'s Simplified Chinese translation)
 * Serbian translation by [@kikorp78](https://github.com/kikorp78)
-* Swedish translation by [@Adilius](https://github.com/Adilius)
+* Swedish translation by [@Adilius](https://github.com/Adilius) and improved by [@swedneck](https://github.com/swedneck)
