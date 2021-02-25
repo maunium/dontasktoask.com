@@ -12,7 +12,7 @@ the footer of the translated page and in the list below.
 * Arabic translation by [@painor](https://github.com/painor) and [@alfawal](https://github.com/alfawal)
 * French translation by [@MonsieurBibo](https://github.com/MonsieurBibo)
 * Korean translation by [홍 용민 (Yongmin Hong)](https://revi.omg.lol/)
-* Turkish translation by [Mehmet Ali Peker](https://github.com/MrPeker/)
+* Turkish translation by [Mehmet Ali Peker](https://github.com/MrPeker/), [Burak Kadir Er](https://github.com/Ksenofanex)
 * Spanish translation by [@danirod](https://github.com/danirod)
 * persian translation by [Yosef Salmalian](https://github.com/usefss)
 * Simplified Chinese translation by [@Cyanoxygen](https://github.com/cyanoxygen)
