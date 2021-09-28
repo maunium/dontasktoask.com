@@ -24,3 +24,4 @@ the footer of the translated page and in the list below.
 * Italian translation by [@Mastory_Md5](https://github.com/MastoryMd5)
 * Hebrew translation by [@Jonatan1609](https://github.com/jonatan1609)
 * Swedish translation by [@Adilius](https://github.com/Adilius) and improved by [@swedneck](https://github.com/swedneck)
+* Greek translation by [Zac](https://github.com/trash-guy)
