@@ -11,8 +11,13 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://dontasktoask.com/ar-eg/</loc>
+    <lastmod>2021-08-15T20:03:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://dontasktoask.com/de/</loc>
-    <lastmod>2020-09-30T20:45:30+00:00</lastmod>
+    <lastmod>2021-08-15T20:03:30+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -22,17 +27,17 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/fa/</loc>
-    <lastmod>2020-09-30T20:41:48+00:00</lastmod>
+    <lastmod>2021-03-28T09:51:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
     <loc>https://dontasktoask.com/fr/</loc>
-    <lastmod>2021-02-25T09:52:50+00:00</lastmod>
+    <lastmod>2021-08-15T20:03:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
     <loc>https://dontasktoask.com/he/</loc>
-    <lastmod>2021-02-26T00:02:00+00:00</lastmod>
+    <lastmod>2021-08-06T09:45:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -77,7 +82,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/zh-cn/</loc>
-    <lastmod>2020-09-30T20:41:48+00:00</lastmod>
+    <lastmod>2020-08-06T09:47:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
