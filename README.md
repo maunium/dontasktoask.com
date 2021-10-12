@@ -25,3 +25,4 @@ the footer of the translated page and in the list below.
 * Hebrew translation by [@Jonatan1609](https://github.com/jonatan1609)
 * Swedish translation by [@Adilius](https://github.com/Adilius) and improved by [@swedneck](https://github.com/swedneck)
 * Thai translation by [@srakrn](https://github.com/srakrn)
+* Greek translation by [Zac](https://github.com/trash-guy)
