@@ -26,3 +26,4 @@ the footer of the translated page and in the list below.
 * Swedish translation by [@Adilius](https://github.com/Adilius) and improved by [@swedneck](https://github.com/swedneck)
 * Thai translation by [@srakrn](https://github.com/srakrn)
 * Greek translation by [Zac](https://github.com/trash-guy)
+* Indonesian translation by [@elmoallistair](https://github.com/elmoallistair)
