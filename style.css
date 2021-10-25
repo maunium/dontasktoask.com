@@ -67,3 +67,25 @@ blockquote p {
     padding-right: 8px;
   }
 }
+
+/* Dark mode *****************************************************************/
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #FAFAFA;
+    background: #222;
+  }
+
+  footer{
+    color: #EEE;
+  }
+
+  blockquote {
+    background: #111;
+    color: #EEE;
+    border-left-color: #444;
+  }
+
+  a:visited {
+    color: #9f4f76;
+  }
+}
