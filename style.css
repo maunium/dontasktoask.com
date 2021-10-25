@@ -1,3 +1,15 @@
+:root {
+  --light:                    #FAFAFA;
+  --lighter:                  #CCC;
+  --darker:                   #111;
+  --dark:                     #222;
+  --dark-accent:              #444;
+  --dark-lighter:             #888;
+  --link:                     #07A;
+  --link-visited-light-theme: #941352;
+  --link-visited-dark-theme:  #9f4f76;
+}
+
 html {
   height: 100%;
 }
@@ -11,8 +23,8 @@ body {
   max-width: 672px;
   line-height: 1.6;
   font-size: 18px;
-  color: #222;
-  background-color: #FAFAFA;
+  color: var(--dark);
+  background-color: var(--light);
   padding: 0 10px;
   font-family: "Open Sans";
 }
@@ -30,23 +42,23 @@ h1, h2 {
 footer {
   grid-row-start: 2;
   grid-row-end: 3;
-  color: #888;
+  color: var(--dark-lighter);
   font-size: 9px;
 }
 
 a {
-  color: #07A;
+  color: var(--link);
 }
 a:visited {
-  color: #941352;
+  color: var(--link-visited-light-theme);
 }
 footer > a {
-  color: #888 !important;
+  color: var(--dark-lighter) !important;
 }
 
 blockquote {
-  background: #F9F9F9;
-  border-left: 10px solid #CCC;
+  background: var(--light);
+  border-left: 10px solid var(--dark-lighter);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
 
@@ -71,21 +83,21 @@ blockquote p {
 /* Dark mode *****************************************************************/
 @media (prefers-color-scheme: dark) {
   body {
-    color: #FAFAFA;
-    background: #222;
+    color: var(--light);
+    background: var(--dark);
   }
 
   footer{
-    color: #EEE;
+    color: var(--lighter);
   }
 
   blockquote {
-    background: #111;
-    color: #EEE;
-    border-left-color: #444;
+    background: var(--darker);
+    color: var(--lighter);
+    border-left-color: var(--dark-accent);
   }
 
   a:visited {
-    color: #9f4f76;
+    color: var(--link-visited-dark-theme);
   }
 }
