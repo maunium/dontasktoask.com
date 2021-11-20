@@ -28,3 +28,4 @@ the footer of the translated page and in the list below.
 * Greek translation by [Zac](https://github.com/trash-guy)
 * Indonesian translation by [@elmoallistair](https://github.com/elmoallistair)
 * Tamil translation by [@praveenscience](https://github.com/praveenscience)
+* Japanese translation by [@aiotter](https://github.com/aiotter)
