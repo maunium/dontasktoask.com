@@ -28,4 +28,5 @@ the footer of the translated page and in the list below.
 * Greek translation by [Zac](https://github.com/trash-guy)
 * Indonesian translation by [@elmoallistair](https://github.com/elmoallistair)
 * Tamil translation by [@praveenscience](https://github.com/praveenscience)
+* Portuguese translation by tiagodinis33 \([GitLab](https://gitlab.com/tiagodinis33), [GitHub](https://github.com/tiagodinis33)\)
 * Japanese translation by [@aiotter](https://github.com/aiotter)
