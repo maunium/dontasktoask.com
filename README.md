@@ -23,7 +23,7 @@ changes to the language you translated.
 * Polish translation by [@mtatko](https://github.com/mtatko)
 * Traditional Chinese translation by [@flarely](https://github.com/flarely) (based on [@Cyanoxygen](https://github.com/cyanoxygen)'s Simplified Chinese translation)
 * Serbian translation by [@kikorp78](https://github.com/kikorp78)
-* Italian translation by [@Mastory_Md5](https://github.com/MastoryMd5)
+* Italian translation by [@Mastory_Md5](https://github.com/MastoryMd5) and improved by [@Sfreyux](https://github.com/sfreyux)
 * Hebrew translation by [@Jonatan1609](https://github.com/jonatan1609)
 * Swedish translation by [@Adilius](https://github.com/Adilius) and improved by [@swedneck](https://github.com/swedneck)
 * Thai translation by [@srakrn](https://github.com/srakrn)
