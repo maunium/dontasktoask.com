@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/ar/</loc>
-    <lastmod>2021-01-12T16:58:00+00:00</lastmod>
+    <lastmod>2022-01-18T20:37:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -16,8 +16,18 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://dontasktoask.com/bg/</loc>
+    <lastmod>2022-01-21T21:15:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://dontasktoask.com/de/</loc>
     <lastmod>2021-08-15T20:03:30+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://dontasktoask.com/el/</loc>
+    <lastmod>2021-10-12T21:25:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -37,7 +47,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/he/</loc>
-    <lastmod>2021-08-06T09:45:00+00:00</lastmod>
+    <lastmod>2021-11-28T18:45:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -46,18 +56,38 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://dontasktoask.com/id/</loc>
+    <lastmod>2021-11-28T18:45:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://dontasktoask.com/it/</loc>
-    <lastmod>2021-02-25T11:37:00+00:00</lastmod>
+    <lastmod>2022-01-18T20:37:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://dontasktoask.com/ja/</loc>
+    <lastmod>2021-11-28T18:45:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
     <loc>https://dontasktoask.com/ko/</loc>
-    <lastmod>2020-09-30T20:41:48+00:00</lastmod>
+    <lastmod>2021-10-28T14:42:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
     <loc>https://dontasktoask.com/pl/</loc>
     <lastmod>2020-11-01T20:53:50+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://dontasktoask.com/pt-br/</loc>
+    <lastmod>2022-01-18T20:37:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://dontasktoask.com/pt-pt/</loc>
+    <lastmod>2022-01-18T20:37:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -76,6 +106,16 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://dontasktoask.com/ta/</loc>
+    <lastmod>2021-10-28T14:23:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://dontasktoask.com/th/</loc>
+    <lastmod>2021-10-12T21:25:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://dontasktoask.com/tr/</loc>
     <lastmod>2021-02-25T11:09:00+00:00</lastmod>
     <priority>0.95</priority>
@@ -90,5 +130,4 @@
     <lastmod>2020-09-30T20:41:48+00:00</lastmod>
     <priority>0.95</priority>
   </url>
-
 </urlset>
