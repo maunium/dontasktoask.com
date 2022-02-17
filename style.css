@@ -1,14 +1,18 @@
 /* -*- css-indent-offset: 2; -*- */
 :root {
-  --light:                    #FAFAFA;
-  --lighter:                  #CCC;
-  --darker:                   #111;
-  --dark:                     #222;
-  --dark-accent:              #444;
-  --dark-lighter:             #888;
-  --link:                     #07A;
+  --light: #fafafa;
+  --lighter: #eee;
+  --darker: #111;
+  --dark: #222;
+  --dark-accent: #444;
+  --dark-lighter: #888;
+  --gray: #4e4e4e;
+  --light-gray: #a7a7a7;
+  --link: #07a;
   --link-visited-light-theme: #941352;
-  --link-visited-dark-theme:  #9f4f76;
+  --link-visited-dark-theme: #9f4f76;
+  --theme: light;
+  color-scheme: var(--theme);
 }
 
 html {
@@ -36,7 +40,8 @@ body {
   }
 }
 
-h1, h2 {
+h1,
+h2 {
   line-height: 1.2;
 }
 
@@ -44,38 +49,52 @@ footer {
   grid-row-start: 2;
   grid-row-end: 3;
   color: var(--dark-lighter);
-  font-size: 9px;
+  font-size: 11px;
+  text-align: center;
+  margin-bottom: 5px;
 }
 
 a {
   color: var(--link);
 }
+
 a:visited {
   color: var(--link-visited-light-theme);
 }
+
 footer > a {
-  color: var(--dark-lighter) !important;
+  color: var(--gray) !important;
 }
 
 blockquote {
-  background: var(--light);
-  border-left: 10px solid var(--dark-lighter);
-  margin: 1.5em 10px;
+  background: var(--lighter);
+  /* border-left: 10px solid var(--dark-lighter); */
+  margin: 1.5em 0;
   padding: 0.5em 10px;
+  border-radius: 5px;
+  display: block;
 
-  font-family: monospace;
+  font-family: inherit;
 }
+
 blockquote p {
   display: inline;
 }
 
+blockquote > .name {
+  font-weight: bold;
+  cursor: default;
+}
+
 @media screen and (min-width: 400px) {
-  blockquote {
+  /* blockquote {
     display: table;
-  }
+  } */
+
   blockquote > * {
     display: table-cell;
   }
+
   blockquote > .name {
     padding-right: 8px;
   }
@@ -83,13 +102,21 @@ blockquote p {
 
 /* Dark mode *****************************************************************/
 @media (prefers-color-scheme: dark) {
+  :root {
+    --theme: dark;
+  }
+
   body {
     color: var(--light);
     background: var(--dark);
   }
 
-  footer{
-    color: var(--lighter);
+  footer {
+    color: var(--dark-lighter);
+  }
+
+  footer > a {
+    color: var(--light-gray) !important;
   }
 
   blockquote {
