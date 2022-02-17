@@ -79,6 +79,8 @@ blockquote {
 
 blockquote p {
   display: inline;
+  position: relative;
+  left: 5px;
 }
 
 blockquote > .name {
