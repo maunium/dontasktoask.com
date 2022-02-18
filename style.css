@@ -34,12 +34,6 @@ body {
   font-family: "Open Sans";
 }
 
-@media screen and (min-width: 680px) {
-  main {
-    margin: 40px 0;
-  }
-}
-
 h1,
 h2 {
   line-height: 1.2;
@@ -93,6 +87,10 @@ blockquote > * {
 }
 
 @media (max-width: 768px) {
+  main {
+    margin: 40px 0;
+  }
+
   blockquote p {
     left: 0;
   }
