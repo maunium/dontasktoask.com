@@ -88,17 +88,17 @@ blockquote > .name {
   cursor: default;
 }
 
-@media screen and (min-width: 400px) {
-  /* blockquote {
-    display: table;
-  } */
+blockquote > * {
+  display: table-cell;
+}
 
-  blockquote > * {
-    display: table-cell;
+@media (max-width: 768px) {
+  blockquote p {
+    left: 0;
   }
 
-  blockquote > .name {
-    padding-right: 8px;
+  h1 {
+    text-align: center;
   }
 }
 
