@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/ar/</loc>
-    <lastmod>2022-01-18T20:37:00+00:00</lastmod>
+    <lastmod>2022-02-20T19:15:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -17,7 +17,12 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/bg/</loc>
-    <lastmod>2022-01-21T21:15:00+00:00</lastmod>
+    <lastmod>2022-02-20T19:15:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://dontasktoask.com/ckb/</loc>
+    <lastmod>2022-02-20T19:15:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -112,12 +117,12 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/th/</loc>
-    <lastmod>2021-10-12T21:25:00+00:00</lastmod>
+    <lastmod>2022-02-20T19:15:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
     <loc>https://dontasktoask.com/tr/</loc>
-    <lastmod>2021-02-25T11:09:00+00:00</lastmod>
+    <lastmod>2022-02-20T19:15:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
