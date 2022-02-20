@@ -9,6 +9,8 @@
   --link:                     #07A;
   --link-visited-light-theme: #941352;
   --link-visited-dark-theme:  #9f4f76;
+
+  color-scheme: light dark;
 }
 
 html {
