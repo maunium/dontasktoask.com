@@ -13,7 +13,7 @@ changes to the language you translated.
 * Website by [@tulir](https://github.com/tulir)
 * Arabic translation by [@painor](https://github.com/painor) and [@alfawal](https://github.com/alfawal)
 * French translation by [@MonsieurBibo](https://github.com/MonsieurBibo)
-* Korean translation by [홍 용민 (Yongmin Hong)](https://revi.omg.lol/)
+* Korean translation by [홍 용민 (Yongmin Hong)](https://revi.omg.lol/) & [@sp301415](https://github.com/sp301415)
 * Turkish translation by [Mehmet Ali Peker](https://github.com/MrPeker/), [Burak Kadir Er](https://github.com/Ksenofanex)
 * Spanish translation by [@danirod](https://github.com/danirod)
 * Persian translation by [Yosef Salmalian](https://github.com/usefss) & [@mohsenasm](https://github.com/mohsenasm)
