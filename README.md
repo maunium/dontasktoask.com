@@ -34,3 +34,4 @@ changes to the language you translated.
 * Japanese translation by [@aiotter](https://github.com/aiotter)
 * Bulgarian translation by [@j4cegh](https://github.com/j4cegh)
 * Dutch translation by [@sqcred](https://github.com/sqcred)
+* Romanian translation by [@florinsdistortedvision](https://github.com/florinsdistortedvision)
