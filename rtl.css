@@ -1,0 +1,22 @@
+body {
+  direction: rtl;
+}
+
+blockquote {
+  border-right: 10px solid var(--dark-lighter);
+  border-left: 0;
+}
+
+@media screen and (min-width: 400px) {
+  blockquote > .name {
+    padding-left: 8px;
+    padding-right: 0;
+  }
+}
+
+/* Dark mode *****************************************************************/
+@media (prefers-color-scheme: dark) {
+  blockquote {
+    border-right-color: var(--dark-accent);
+  }
+}
