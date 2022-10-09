@@ -36,3 +36,4 @@ changes to the language you translated.
 * Dutch translation by [@sqcred](https://github.com/sqcred)
 * Vietnamese translation by [@QuanMCPC](https://github.com/QuanMCPC)
 * Romanian translation by [@florinsdistortedvision](https://github.com/florinsdistortedvision)
+* Hungarian translation by [@L3-NR](https://github.com/L3-NR)
