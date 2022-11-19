@@ -38,3 +38,4 @@ changes to the language you translated.
 * Romanian translation by [@florinsdistortedvision](https://github.com/florinsdistortedvision)
 * Hungarian translation by [@L3-NR](https://github.com/L3-NR)
 * Slovak translation by [@kubo6472](https://github.com/kubo6472)
+* Croatian translation by [@diomed](https://github.com/diomed)
