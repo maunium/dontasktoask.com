@@ -17,7 +17,7 @@ changes to the language you translated.
 * Turkish translation by [Mehmet Ali Peker](https://github.com/MrPeker/), [Burak Kadir Er](https://github.com/Ksenofanex)
 * Spanish translation by [@danirod](https://github.com/danirod) and improved by [@mreduar](https://github.com/mreduar)
 * Persian translation by [Yosef Salmalian](https://github.com/usefss) & [@mohsenasm](https://github.com/mohsenasm)
-* Simplified Chinese translation by [@Cyanoxygen](https://github.com/cyanoxygen)
+* Simplified Chinese translation by [@Cyanoxygen](https://github.com/cyanoxygen) and redone by [@stevenlele](https://github.com/stevenlele)
 * German translation by [@LasseNiermann](https://github.com/LasseNiermann)
 * Russian translation by [@GameRaccoon](https://github.com/gameraccoon)
 * Polish translation by [@mtatko](https://github.com/mtatko)
