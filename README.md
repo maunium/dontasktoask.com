@@ -39,3 +39,4 @@ changes to the language you translated.
 * Hungarian translation by [@L3-NR](https://github.com/L3-NR)
 * Slovak translation by [@kubo6472](https://github.com/kubo6472)
 * Croatian translation by [@diomed](https://github.com/diomed)
+* Toki Pona translation by [@woflydev](https://github.com/woflydev/)
