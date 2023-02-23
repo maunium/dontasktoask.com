@@ -1,4 +1,4 @@
-# [dontasktoask.com](https://dontasktoask.com)
+# [alasa ala tan toki alasa!](https://alasa-ala.pages.dev)
 An informational website about why you should ask questions directly instead of
 asking to ask.
 
