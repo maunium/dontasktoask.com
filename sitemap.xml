@@ -102,7 +102,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/pt-br/</loc>
-    <lastmod>2022-01-18T20:37:00+00:00</lastmod>
+    <lastmod>2023-01-12T15:00:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -151,8 +151,13 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://dontasktoask.com/uk/</loc>
+    <lastmod>2023-02-27T16:40:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://dontasktoask.com/vi/</loc>
-    <lastmod>2022-11-19T11:00:00+00:00</lastmod>
+    <lastmod>2023-02-27T16:40:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
