@@ -41,3 +41,4 @@ changes to the language you translated.
 * Croatian translation by [@diomed](https://github.com/diomed)
 * Ukrainian translation by [@Higmans](https://github.com/Higmans)
 * Toki Pona translation by [@cubedhuang](https://github.com/cubedhuang)
+* Lithuanian translation by [@TruncatedDinoSour](https://ari-web.xyz/gh)
