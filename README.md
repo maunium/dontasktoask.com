@@ -40,4 +40,4 @@ changes to the language you translated.
 * Slovak translation by [@kubo6472](https://github.com/kubo6472)
 * Croatian translation by [@diomed](https://github.com/diomed)
 * Ukrainian translation by [@Higmans](https://github.com/Higmans)
-* Lithuanian translation by [@TruncatedDinoSour](https://ari-web.xyz/gh)
+* Lithuanian translation by [@TruncatedDinoSour](https://ari.lt/gh)
