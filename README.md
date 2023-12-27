@@ -41,3 +41,4 @@ changes to the language you translated.
 * Croatian translation by [@diomed](https://github.com/diomed)
 * Ukrainian translation by [@Higmans](https://github.com/Higmans)
 * Lithuanian translation by [@TruncatedDinoSour](https://ari.lt/gh)
+* Latvian translation by [@TruncatedDinoSour](https://ari.lt/gh)
