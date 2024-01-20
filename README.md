@@ -31,7 +31,7 @@ changes to the language you translated.
 * Indonesian translation by [@elmoallistair](https://github.com/elmoallistair)
 * Tamil translation by [@praveenscience](https://github.com/praveenscience)
 * Portuguese translation by tiagodinis33 \([GitLab](https://gitlab.com/tiagodinis33), [GitHub](https://github.com/tiagodinis33)\)
-* Japanese translation by [@aiotter](https://github.com/aiotter)
+* Japanese translation by [@aiotter](https://github.com/aiotter), and improved by [@IMakeBotsForYou](https://github.com/IMakeBotsForyou)
 * Bulgarian translation by [@oijdfdg](https://github.com/oijdfdg)
 * Dutch translation by [@sqcred](https://github.com/sqcred)
 * Vietnamese translation by [@QuanMCPC](https://github.com/QuanMCPC)
