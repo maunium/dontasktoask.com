@@ -32,7 +32,7 @@ changes to the language you translated.
 * Tamil translation by [@praveenscience](https://github.com/praveenscience)
 * Portuguese translation by tiagodinis33 \([GitLab](https://gitlab.com/tiagodinis33), [GitHub](https://github.com/tiagodinis33)\)
 * Japanese translation by [@aiotter](https://github.com/aiotter)
-* Bulgarian translation by [@j4cegh](https://github.com/j4cegh)
+* Bulgarian translation by [@oijdfdg](https://github.com/oijdfdg)
 * Dutch translation by [@sqcred](https://github.com/sqcred)
 * Vietnamese translation by [@QuanMCPC](https://github.com/QuanMCPC)
 * Romanian translation by [@florinsdistortedvision](https://github.com/florinsdistortedvision)
