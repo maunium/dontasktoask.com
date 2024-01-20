@@ -43,3 +43,4 @@ changes to the language you translated.
 * Lithuanian translation by [@TruncatedDinoSour](https://ari.lt/gh)
 * Filipino translation by [@IverCoder](https://github.com/IverCoder)
 * Finnish translation by [@raikasdev](https://github.com/raikasdev)
+* Bosnian translation by [@JustMike-git](https://github.com/JustMike-git)
