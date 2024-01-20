@@ -44,3 +44,4 @@ changes to the language you translated.
 * Filipino translation by [@IverCoder](https://github.com/IverCoder)
 * Finnish translation by [@raikasdev](https://github.com/raikasdev)
 * Bosnian translation by [@JustMike-git](https://github.com/JustMike-git)
+* Bengali translation by [@LakhindarPal](https://github.com/LakhindarPal)
