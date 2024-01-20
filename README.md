@@ -42,3 +42,4 @@ changes to the language you translated.
 * Ukrainian translation by [@Higmans](https://github.com/Higmans)
 * Lithuanian translation by [@TruncatedDinoSour](https://ari.lt/gh)
 * Filipino translation by [@IverCoder](https://github.com/IverCoder)
+* Finnish translation by [@raikasdev](https://github.com/raikasdev)
