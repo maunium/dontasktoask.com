@@ -40,6 +40,7 @@ changes to the language you translated.
 * Slovak translation by [@kubo6472](https://github.com/kubo6472)
 * Croatian translation by [@diomed](https://github.com/diomed)
 * Ukrainian translation by [@Higmans](https://github.com/Higmans)
+* Toki Pona translation by [@cubedhuang](https://github.com/cubedhuang)
 * Lithuanian translation by [@TruncatedDinoSour](https://ari.lt/gh)
 * Filipino translation by [@IverCoder](https://github.com/IverCoder)
 * Finnish translation by [@raikasdev](https://github.com/raikasdev)
