@@ -21,8 +21,18 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://dontasktoask.com/bn/</loc>
+    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://dontasktoask.com/bs/</loc>
+    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://dontasktoask.com/ckb/</loc>
-    <lastmod>2022-02-20T19:15:00+00:00</lastmod>
+    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -46,6 +56,16 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://dontasktoask.com/fi/</loc>
+    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://dontasktoask.com/fil/</loc>
+    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://dontasktoask.com/fr/</loc>
     <lastmod>2021-08-15T20:03:00+00:00</lastmod>
     <priority>0.95</priority>
@@ -57,7 +77,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/hr/</loc>
-    <lastmod>2022-11-19T11:00:00+00:00</lastmod>
+    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -82,7 +102,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/ja/</loc>
-    <lastmod>2021-11-28T18:45:00+00:00</lastmod>
+    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -96,8 +116,13 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://dontasktoask.com/ml/</loc>
+    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://dontasktoask.com/nl/</loc>
-    <lastmod>2022-03-15T09:30:00+00:00</lastmod>
+    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -148,6 +173,11 @@
   <url>
     <loc>https://dontasktoask.com/th/</loc>
     <lastmod>2022-02-20T19:15:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://dontasktoask.com/tok/</loc>
+    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
