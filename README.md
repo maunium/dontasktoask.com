@@ -33,7 +33,7 @@ changes to the language you translated.
 * Portuguese translation by tiagodinis33 \([GitLab](https://gitlab.com/tiagodinis33), [GitHub](https://github.com/tiagodinis33)\)
 * Japanese translation by [@aiotter](https://github.com/aiotter), and improved by [@IMakeBotsForYou](https://github.com/IMakeBotsForyou)
 * Bulgarian translation by [@oijdfdg](https://github.com/oijdfdg)
-* Dutch translation by [@sqcred](https://github.com/sqcred)
+* Dutch translation by [@sqcred](https://github.com/sqcred) and improved by [@7ijme](https://github.com/7ijme)
 * Vietnamese translation by [@QuanMCPC](https://github.com/QuanMCPC)
 * Romanian translation by [@florinsdistortedvision](https://github.com/florinsdistortedvision)
 * Hungarian translation by [@L3-NR](https://github.com/L3-NR)
