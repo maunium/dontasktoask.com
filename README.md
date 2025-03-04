@@ -47,3 +47,4 @@ changes to the language you translated.
 * Bosnian translation by [@JustMike-git](https://github.com/JustMike-git)
 * Bengali translation by [@LakhindarPal](https://github.com/LakhindarPal)
 * Latvian translation by [@TruncatedDinoSour](https://ari.lt/gh)
+* Norwegian translation by [@mochienya](https://github.com/mochienya)
