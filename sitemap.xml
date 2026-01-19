@@ -31,6 +31,11 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://dontasktoask.com/ca/</loc>
+    <lastmod>2025-04-24T23:00:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://dontasktoask.com/ckb/</loc>
     <lastmod>2024-01-20T18:30:00+00:00</lastmod>
     <priority>0.95</priority>
@@ -38,6 +43,11 @@
   <url>
     <loc>https://dontasktoask.com/de/</loc>
     <lastmod>2021-08-15T20:03:30+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://dontasktoask.com/et/</loc>
+    <lastmod>2024-09-28T08:34:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
