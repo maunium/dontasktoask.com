@@ -48,3 +48,5 @@ changes to the language you translated.
 * Bengali translation by [@LakhindarPal](https://github.com/LakhindarPal)
 * Latvian translation by [@TruncatedDinoSour](https://ari.lt/gh)
 * Estonian translation by [@hoovad](https://github.com/hoovad)
+* Catalan translation by [@ntoroc](https://github.com/ntoroc)
+* Norwegian translation by [@mochienya](https://github.com/mochienya)
