@@ -219,5 +219,10 @@
     <loc>https://dontasktoask.com/zh-tw/</loc>
     <lastmod>2020-09-30T20:41:48+00:00</lastmod>
     <priority>0.95</priority>
+   <url>
+    <loc>https://dontasktoask.com/az/</loc>
+    <lastmod>2026-01-05T03:00:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
   </url>
 </urlset>
