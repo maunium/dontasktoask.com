@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/ca/</loc>
-    <lastmod>2025-04-24T23:00:00+00:00</lastmod>
+    <lastmod>2026-01-19T18:45:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/et/</loc>
-    <lastmod>2024-09-28T08:34:00+00:00</lastmod>
+    <lastmod>2026-01-19T18:45:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -77,7 +77,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/fr/</loc>
-    <lastmod>2021-08-15T20:03:00+00:00</lastmod>
+    <lastmod>2026-01-19T18:45:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -141,6 +141,11 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://dontasktoask.com/no/</loc>
+    <lastmod>2026-01-19T18:45:00+00:00</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://dontasktoask.com/pl/</loc>
     <lastmod>2020-11-01T20:53:50+00:00</lastmod>
     <priority>0.95</priority>
@@ -162,7 +167,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/ru/</loc>
-    <lastmod>2020-09-30T20:45:30+00:00</lastmod>
+    <lastmod>2026-01-19T18:45:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -192,7 +197,7 @@
   </url>
   <url>
     <loc>https://dontasktoask.com/tok/</loc>
-    <lastmod>2024-01-20T18:30:00+00:00</lastmod>
+    <lastmod>2026-01-19T18:45:00+00:00</lastmod>
     <priority>0.95</priority>
   </url>
   <url>
@@ -219,10 +224,10 @@
     <loc>https://dontasktoask.com/zh-tw/</loc>
     <lastmod>2020-09-30T20:41:48+00:00</lastmod>
     <priority>0.95</priority>
-   <url>
-    <loc>https://dontasktoask.com/az/</loc>
-    <lastmod>2026-01-05T03:00:00+00:00</lastmod>
-    <priority>0.95</priority>
   </url>
+  <url>
+    <loc>https://dontasktoask.com/az/</loc>
+    <lastmod>2026-01-19T18:45:00+00:00</lastmod>
+    <priority>0.95</priority>
   </url>
 </urlset>
