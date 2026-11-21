@@ -51,3 +51,4 @@ changes to the language you translated.
 * Catalan translation by [@ntoroc](https://github.com/ntoroc)
 * Norwegian translation by [@mochienya](https://github.com/mochienya)
 * Azerbaijani translation by [@Hajiaga-Sadikhov](https://github.com/Hajiaga-Sadikhov)
+* Czech translation by [@Sophon](https://github.com/sophon)
